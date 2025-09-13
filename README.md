@@ -10,3 +10,4 @@ FeedMe Assignment
    - npm install
 4. Build front-end
    - npm run dev
+5. Open browser at `http://localhost:5173/`
